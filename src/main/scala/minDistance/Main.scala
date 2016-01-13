@@ -1,4 +1,4 @@
-package minDistance
+package mindistance
 
 /**
   * Created by kasonchan on 1/13/16.

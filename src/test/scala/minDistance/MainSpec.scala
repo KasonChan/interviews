@@ -1,7 +1,7 @@
-package minDistance
+package mindistance
 
 import org.scalatest.{FlatSpec, Matchers}
-import minDistance.Main.solution
+import mindistance.Main.solution
 
 /**
   * Created by kasonchan on 1/13/16.
